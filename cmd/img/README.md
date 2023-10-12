@@ -4,4 +4,4 @@ Here is the folder where the images are stored
 
 e.g.: `1024x768.jpg`
 
-![img](../../docs/gopher.png)
+<img src="../../docs/gopher.png" alt="gopher" width="200">
