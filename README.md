@@ -1,8 +1,10 @@
 # Random image generator
 
-This is a simple random image generator written in [Go](https://go.dev/).
+## Description
 
-Download a random image from [Lorem Picsum](https://picsum.photos/) providing a `width` and `height` parameters.
+This is a simple script to download a random image.
+
+Generate and download a random image from [Lorem Picsum](https://picsum.photos/) providing a `width` and `height` parameters.
 
 ## Requirements
 
