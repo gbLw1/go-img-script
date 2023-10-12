@@ -34,7 +34,8 @@ func main() {
 	defer resp.Body.Close()
 
 	fileName := fmt.Sprintf("%dx%d.jpg", *widthPtr, *heightPtr)
-	file, err := os.Create(fileName)
+	fullPath := fmt.Sprintf(".\\img\\%s", fileName)
+	file, err := os.Create(fullPath)
 	if err != nil {
 		log.Fatal(err)
 	}

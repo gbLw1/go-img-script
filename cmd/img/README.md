@@ -2,6 +2,6 @@
 
 Here is the folder where the images are stored
 
-e.g.: `1300x1392.jpg`
+e.g.: `1024x768.jpg`
 
-![img](../docs/gopher.png)
+![img](../../docs/gopher.png)
