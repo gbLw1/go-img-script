@@ -20,7 +20,7 @@ go run .\cmd\main.go --width={width} --height={height}
 
 Change the values of the `width` and `height` parameters to generate the image at the specified size.
 
-You can find the generated image in the [`.\cmd\img`](./cmd/img/README.md) directory.
+You can find the generated image in the [`.\cmd\img`](./cmd/img) directory.
 
 The generated image will have the name `{width}x{height}.png`
 
