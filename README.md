@@ -1,12 +1,12 @@
 # Random image generator
 
-This is a simple random image generator written in [Go](https://golang.org/).
+This is a simple random image generator written in [Go](https://go.dev/).
 
 Download a random image from [Lorem Picsum](https://picsum.photos/) providing a `width` and `height` parameters.
 
 ## Requirements
 
-You just need [Go](https://golang.org/) installed on your computer.
+You just need [Go](https://go.dev/dl/) installed on your computer.
 
 ## Usage
 
