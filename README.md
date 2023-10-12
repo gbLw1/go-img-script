@@ -4,6 +4,10 @@ This is a simple random image generator written in [Go](https://golang.org/).
 
 Download a random image from [Lorem Picsum](https://picsum.photos/) providing a `width` and `height` parameters.
 
+## Requirements
+
+You just need [Go](https://golang.org/) installed on your computer.
+
 ## Usage
 
 In the root directory of the repository, run the following command:
