@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a simple script to download a random image.
+This is a simple [Go](https://go.dev) script to download a random image.
 
 Generate and download a random image from [Lorem Picsum](https://picsum.photos/) providing a `width` and `height` parameters.
 
@@ -12,10 +12,10 @@ You just need [Go](https://go.dev/dl/) installed on your computer.
 
 ## Usage
 
-In the root directory of the repository, go to [`.\cmd`](./cmd/) and run the following command:
+In the root directory of the repository run the following command
 
 ```sh
-go run .\main.go --width={width} --height={height}
+go run .\cmd\main.go --width={width} --height={height}
 ```
 
 Change the values of the `width` and `height` parameters to generate the image at the specified size.
